@@ -1,7 +1,7 @@
 # Site settings
 title: "Titolo sito"
 description: "Descrizione sito"
-url: "https://ai-sf.it/url"
+url: "https://ai-sf.it/sg2023"
 destination: ../site/
 locale: "it"
 
