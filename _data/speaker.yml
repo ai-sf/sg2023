@@ -1,0 +1,34 @@
+description:
+
+content:
+
+- nome: "Fernando Ferroni"
+  id: ferroni
+  uni: "Senior Professor @ GSSI Scuola Universitaria Superiore Gran Sasso Science Institute"
+  img: "ferroni.jpg"
+  title: "L'Europa è amica dei giovani"
+  bio: ""
+  abstract: "La Ricerca in ambito internazionale, le sfide poste da progetti complessi agli Enti di Ricerca nazionali, il ruolo dell'Europa nel mettere ordine ai processi di aggregazione ad alto livello e allo stesso tempo nel promuovere la crescita dei giovani ricercatori per aiutarli a trovare un ruolo di leadership. Tra successi e criticità."
+  link:
+  slides:
+
+
+- nome: "Cristina Mattone"
+  id: mattone
+  uni: "Educational Product Manager @ CAEN SpA"
+  img: "mattone.jpeg"
+  title: "Il fisico nel mondo della ricerca… e non solo!"
+  bio: ""
+  abstract: "Corso di laurea e dottorato in Fisica hanno l'obiettivo di impartire agli studenti una formazione in fisica di livello professionale. E' consuetudine pensare che, dopo gli studi, il giovane fisico possa intraprendere solo l'attività di ricerca o di insegnamento e/o diffusione della cultura scientifica. In realtà le possibilità di lavoro sono più variegate di quanto si pensi ed il ruolo del fisico risulta molto appetibile sia dal settore pubblico che da quello industriale. Durante gli studi si sviluppano infatti capacità di problem solving, competenze e duttilità tali che il fisico si inserisca facilmente in contesti lavorativi quali, ad esempio, produzione e studio delle proprietà di nuovi materiali, prevenzione e controllo dei rischi ambientali, analisi nel campo dei beni culturali, analisi del rischio sismico, analisi bancarie, tecniche per la fisica dell'atmosfera, progettazione test ed utilizzo di sistemi di rivelatori e di sensori, progettazione elettronica, dosimetria delle radiazioni ionizzanti e non ionizzanti in ambito medico ed ambientale, fisica medica e sanitaria nell'ambito della prevenzione, diagnosi e cura e nella radioprotezione personale ed ambientale"
+  link:
+  slides:
+
+- nome: "Carlos Maximiliano Mollo"
+  id: mollo
+  uni: "INFN sezione di Napoli - Referente per il trasferimento tecnologico"
+  img: "default.png"
+  title: "L'Importanza del Trasferimento Tecnologico nella Ricerca Scientifica: Impatti Economici, Protezione della Proprietà Intellettuale e Opportunità di Carriera nell'Industria"
+  bio: ""
+  abstract: "Il trasferimento tecnologico riveste un ruolo fondamentale nel mondo della ricerca scientifica, facilitando la transizione dei risultati della ricerca verso l'industria e la società. La protezione della proprietà intellettuale è un elemento cruciale. I ricercatori devono garantire che le loro scoperte siano adeguatamente protette attraverso brevetti, copyright e altre forme di protezione, al fine di sfruttare economicamente i risultati della loro ricerca. Ciò promuove l'innovazione, incoraggiando i ricercatori a cercare collaborazioni con l'industria. Le innovazioni tecnologiche derivanti dalla ricerca scientifica possono essere commercializzate. Questo crea opportunità di investimento, aumenta la competitività delle imprese e stimola la crescita economica. Inoltre, il trasferimento tecnologico può generare flussi di entrate attraverso il licensing e la creazione di spin-off promuovendo anche lo sviluppo di carriere multidisciplinari. In questo contributo verranno mostrati i principali meccanismi legati al trasferimento tecnologico, gli strumenti e le metodologie pratiche per far sì che un'idea possa trasformarsi in una impresa di successo."
+  link:
+  slides:

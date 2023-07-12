@@ -1,0 +1,38 @@
+schedule:
+  - day: 14/09
+    date: "140923"
+    day_ex: Giovedì 14 Settembre
+    short_descr:
+    activity:
+      - hour: "9:00 - 9:30"
+        where:
+        who: "Saluti Istituzionali"
+        descr: ""
+        tag: "conf"
+        id:
+      - hour: "9:30 - 10:30"
+        where:
+        who: "Fernando Ferroni"
+        descr: "L'Europa è amica dei giovani"
+        tag: "conf"
+        id: speaker/#ferroni
+      - hour: "10:30 - 11:30"
+        where:
+        who: "Cristina Mattone"
+        descr: "Il fisico nel mondo della ricerca… e non solo!"
+        tag:
+        id: speaker/#mattone
+      - hour: "11:30 - 12:00"
+        who: "Coffee Break"
+
+      - hour: "12:00 - 13:00"
+        who: "Carlos Maximiliano Mollo"
+        descr: "L'Importanza del Trasferimento Tecnologico nella Ricerca Scientifica: Impatti Economici, Protezione della Proprietà Intellettuale e Opportunità di Carriera nell'Industria"
+        tag: "conf"
+        id: speaker/#mollo
+
+      - hour: "19:15"
+        who: "Evento Sociale"
+        descr: "Evento Sociale"
+
+

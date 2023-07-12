@@ -1,0 +1,47 @@
+---
+layout: page
+title: Programma
+---
+
+<div class="row">
+  {% for item in site.data.programma.schedule %}
+  <div id="{{item.date}}" class="col s12">
+    <br>
+    <h5>{{ item.day_ex }}</h5>
+    <h5><b>{{ item.short_descr }}</b></h5>
+    <table>
+      <thread>
+        <tr>
+          <th data-field="time">Orario</th>
+          <th data-field="who"></th>
+          <th data-field="what" style="text-align:center; width:45%"></th>
+        </tr>
+      </thread>
+      <tbody>
+        {% for act in item.activity %}
+        {% assign bg = "rgba(0,0,0,0)"%}
+        {% assign fg = "black" %}
+        <td style="background-color:{{bg}}">{{ act.hour }}</td>
+        <td style="background-color:{{bg}}">
+          {% if act.id %}<a href="{{site.url}}/{{act.id}}" target='_blank'>{% endif %}
+            <b>{{ act.who }}</b>
+            {% if act.id %}</a>{% endif %}
+        </td>
+        <td style="background-color:{{bg}}; color:{{tc}}; text-align:center">{{ act.descr }}</td>
+        {% if act.id != nil %}
+        {% else %}
+        <td style="background-color:{{bg}}"></td>
+        {% endif %}
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+
+  {% endfor %}
+
+</div>
+
+
+<p>Il programma della mattina si svolgerà in <b>Via Giovanni Paolo II, 132, 84084 Fisciano SA.</b></p>
+<p>Nella quota di partecipazione sono compresi il materiale della conferenza, l'ingresso all'evento sociale di giovedì sera e l'attestato di partecipazione.</p>
