@@ -31,7 +31,7 @@ schedule:
         tag: "conf"
         id: speaker/#mollo
 
-      - hour: "19:15"
+      - hour: "20:00"
         who: "Evento Sociale"
         descr: "Evento Sociale"
 
